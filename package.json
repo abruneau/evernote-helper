@@ -1,0 +1,22 @@
+{
+  "name": "evernote-helper",
+  "version": "0.0.0",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "crypto": "0.0.3",
+    "fs-plus": "^2.9.2",
+    "mine": "^0.1.0",
+    "moment": "^2.15.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "grunt": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-mocha-test": "*",
+    "matchdep": "*",
+    "mocha": "*",
+    "sinon": "*"
+  }
+}

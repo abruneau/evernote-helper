@@ -1,0 +1,8 @@
+{
+  "name": "evernote-helper",
+  "description": "",
+  "main": "dist/evernote-helper.js",
+  "version": "0.0.0",
+  "dependencies": {}
+}
+
