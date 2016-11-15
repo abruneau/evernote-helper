@@ -1,6 +1,6 @@
 {
   "name": "evernote-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "cheerio": "^0.22.0",
     "crypto": "0.0.3",
